@@ -9,6 +9,6 @@
 #### Alegem o țară --> Alegem un oras din cele asociate tarii --> Rezultat
 
 ## Diagrama de clase
-![Image of ClassDiagram](https://app.diagrams.net/#G1F2_CnzIY2d79wLi9jHtL0ehkHr5XeZ6G)
+![Image of ClassDiagram](https://github.com/GinaS09/WeatherApp/blob/main/ClassDiagram.png)
 ## Diagrama de secventa
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of ClassSeq](https://github.com/GinaS09/WeatherApp/blob/main/ClassSequency.png)
