@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import javafx.collections.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="300.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+
+
+   <stylesheets>
+      <URL value="@WeatherStyle.css" />
+   </stylesheets>
+
+   <children>
+
+      <ComboBox fx:id="cityBox" layoutX="200.0" layoutY="12.0" prefHeight="36.0" prefWidth="178.0" promptText="City:">
+      </ComboBox>
+      <ComboBox fx:id="countryBox" layoutX="13.0" layoutY="13.0" prefHeight="36.0" prefWidth="170.0" promptText="Country:">
+         <items>
+            <FXCollections fx:factory="observableArrayList">
+               <String fx:value="RU" />
+               <String fx:value="FR" />
+               <String fx:value="HU" />
+               <String fx:value="RO" />
+               <String fx:value="BG" />
+               <String fx:value="DE" />
+               <String fx:value="BE" />
+               <String fx:value="GB" />
+               <String fx:value="IT" />
+               <String fx:value="ES" />
+
+            </FXCollections>
+         </items>
+      </ComboBox>
+      <Label fx:id="iconLbl" AnchorPane.topAnchor="80.0" AnchorPane.leftAnchor="50.0"/>
+      <Label fx:id="cityNameLbl" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="180.0" />
+      <Label fx:id="countryNameLbl" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="150.0" />
+      <Label fx:id="descriptionLbl" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="160.0" />
+      <Label fx:id="temperatureLbl" AnchorPane.leftAnchor="200.0" AnchorPane.topAnchor="70.0" />
+      <Label fx:id="celsiusLbl" text="°C" AnchorPane.leftAnchor="300.0" AnchorPane.topAnchor="80.0" />
+
+
+      <Label prefHeight="17.0" prefWidth="48.0" text="Pressure:" AnchorPane.leftAnchor="200.0" AnchorPane.topAnchor="150.0" />
+      <Label text="mbar" AnchorPane.leftAnchor="320.0" AnchorPane.topAnchor="150.0" />
+      <Label fx:id="pressureLbl" AnchorPane.leftAnchor="290.0" AnchorPane.topAnchor="150.0" />
+
+      <Label text="Humidity:" AnchorPane.leftAnchor="200.0" AnchorPane.topAnchor="170.0" />
+      <Label text="\%" AnchorPane.leftAnchor="320.0" AnchorPane.topAnchor="170.0" />
+      <Label fx:id="humidityLbl" AnchorPane.leftAnchor="290.0" AnchorPane.topAnchor="170.0" />
+
+      <Label text="Wind:" AnchorPane.leftAnchor="200.0" AnchorPane.topAnchor="190.0" />
+      <Label text="kmph" AnchorPane.leftAnchor="320.0" AnchorPane.topAnchor="190.0" />
+      <Label fx:id="windLbl" AnchorPane.leftAnchor="290.0" AnchorPane.topAnchor="190.0" />
+
+      <Label fx:id="timeLbl" AnchorPane.leftAnchor="200.0" AnchorPane.topAnchor="220.0" />
+
+
+      <HBox fx:id="botBox" alignment="BASELINE_CENTER" prefWidth="400.0" spacing="20" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0">
+         <children>
+            <Label fx:id="bottom1" text=" Seres Gina-Marina" />
+            <Label fx:id="bottom2" text="OpenWeather2021" />
+         </children>
+      </HBox>
+
+   </children>
+</AnchorPane>
