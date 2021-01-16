@@ -1,0 +1,30 @@
+RO	Jibou	few clouds	-2	1015	74	3.6	2021/01/15/          12:14:42
+RO	Braşov	light snow	-0.56	1008	79	0.89	2021/01/15/          12:17:08
+RU	Moscow	clear sky	-14	1009	78	2	2021/01/15/          12:17:12
+GB	Southall	mist	1.67	1031	93	2.06	2021/01/15/          12:17:15
+RU	Razvilka	clear sky	-14	1009	92	1	2021/01/15/          12:17:18
+FR	Tarascon	overcast clouds	6	1020	75	5.66	2021/01/15/          20:42:58
+FR	Ploufragan	clear sky	4	1029	87	1.54	2021/01/15/          20:43:00
+FR	Tarascon	overcast clouds	6	1020	75	5.66	2021/01/15/          20:43:03
+BE	Ternat	clear sky	1.67	1025	83	1.28	2021/01/15/          20:43:21
+BE	Brussels	broken clouds	1.67	1030	86	0.51	2021/01/15/          20:43:24
+RU	Razvilka	light snow	-13	1009	78	4	2021/01/15/          20:43:26
+RO	Zalău	light snow	-6	1016	79	4.12	2021/01/15/          21:11:19
+RO	Jibou	broken clouds	-6	1016	86	2.06	2021/01/15/          21:11:22
+RO	Cluj	light snow	-3.89	1015	86	2.57	2021/01/15/          21:11:24
+RO	Braşov	overcast clouds	-3.89	976	87	0.45	2021/01/15/          21:11:26
+RO	Cluj	mist	-3.89	1014	80	2.57	2021/01/15/          23:28:16
+RO	Cluj	overcast clouds	-3.89	1014	74	4.12	2021/01/16/          00:43:11
+RO	Cluj	mist	-5	1015	86	2.06	2021/01/16/          01:26:53
+RO	Zalău	light snow	-10	1017	85	2.06	2021/01/16/          01:26:55
+DE	Frankfurt am Main	broken clouds	1	1028	75	1.54	2021/01/16/          01:27:20
+DE	Jena	overcast clouds	-2.78	1024	88	2.11	2021/01/16/          01:27:30
+DE	Frankfurt am Main	broken clouds	1	1028	75	1.54	2021/01/16/          01:27:33
+DE	Jena	overcast clouds	-2.78	1024	88	2.11	2021/01/16/          01:27:34
+RU	Razvilka	light snow	-13	1007	78	2	2021/01/16/          01:27:40
+RU	Razvilka	light snow	-13	1007	78	2	2021/01/16/          01:36:32
+RO	Zalău	light snow	-10	1017	85	2.06	2021/01/16/          01:37:23
+RO	Braşov	light snow	-3.89	975	89	1.94	2021/01/16/          01:37:39
+RO	Zalău	light snow	-10	1017	85	2.06	2021/01/16/          01:37:42
+RO	Zalău	light snow	-11	1017	85		2021/01/16/          02:27:50
+RU	Moscow	light snow	-13	1007	78		2021/01/16/          02:30:26
